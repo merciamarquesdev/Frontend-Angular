@@ -1,0 +1,13 @@
+---> javascript eh ling. interpretada
+---> tipos de linguagens: compiladas, JIT (just in time), interpretadas
+
+---> compiladas: o artefato de saída é linguagem de maquina (C, C++, Rust, Go)
+//vantagem: velocidade pois roda diretamente na maquina e interage direto com o hardware/sist. op.
+//desvangem: baixa produtividade as vzs (memory leak), legibilidade (sintaxe), portabilidade (qual processador ou sist. operacional ta rodando)
+
+---> JIT: transforma pra um linguagem intermedia e envia pra VM pra executar de acordo com o seu computador (Java/Kotlin, C#)
+// nao é tao rapida quanto ling. compilada, mas é mais versátil por poder rodar em maquinas diferentes
+
+---> interpretadas: não compila o programa inteiro de uma vez, apenas traduz linha por linha para linguagem de maquina just in time (Javascript, Python)
+// perda de velocidade, porem tem mais versatilidade
+
