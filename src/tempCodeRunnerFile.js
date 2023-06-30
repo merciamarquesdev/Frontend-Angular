@@ -1,6 +1,12 @@
-console.log(input);
-// if(input === isNaN){
-//     console.log(`A idade digitada não é um número.`);
-// } else{
-//     console.log(`A idade digitada, ${input} anos, é um número.`);
+function calculaMedia(){
+//     let notas = [];
+//     let k = 0;
+//     while(k < 5){
+//         input = parseFloat(input('Digite a nota: ')); 
+//         notas.concat(input);
+//         k++;
+//     }
+    
+//     console.log(notas);
 // }
+// calculaMedia();
